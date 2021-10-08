@@ -1,0 +1,13 @@
+#’ @importFrom np b.star
+
+importFrom(stats, qt)
+importFrom(stats, median)
+export(LIC)
+
+export(OSA)
+
+export(OSM)
+
+export(Opt1)
+
+export(Opt2)
